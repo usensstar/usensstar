@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning C++, HTML, CSS, JAVA SCRIPT
 - 💞️ I’m looking to collaborate on Hackathons.
 - 📫 How to reach me Discord- @sstarru
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 usensstar/usensstar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
